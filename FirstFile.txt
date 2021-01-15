@@ -2,3 +2,9 @@ Hello World!
 Apples
 Bananas
 Oranges
+
+Name: Xiangxu Teng
+Date: January 14th, 2021
+Favourite animal: Shiba Inu
+What I hope to do this semester: 
+I hope I can keep up with my classmates.
