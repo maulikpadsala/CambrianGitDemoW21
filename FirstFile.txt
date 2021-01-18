@@ -8,3 +8,15 @@ Date: January 14th, 2021
 Favourite animal: Shiba Inu
 What I hope to do this semester: 
 I hope I can keep up with my classmates.
+
+
+---------------------------------------------------------------------------------
+January 17th, 2021
+
+I'm vinay, i love dogs and like to create things.
+I hope we can all be good influce to each other.
+
+Xiangxu check this serverless project i'm building 
+https://bbyk32x3w5.execute-api.ap-south-1.amazonaws.com/api/
+It scans for vulnerablity in website and cypher suite security.
+---------------------------------------------------------------------------------
